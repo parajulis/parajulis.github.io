@@ -9,7 +9,7 @@ redirect_from:
 
 ## ¿Quién soy?
 
-¡Hola! Soy Marcos Matutes Rapun, un apasionado desarrollador de videojuegos con un gran interés en los gráficos 3D. Mi objetivo es dar vida a mundos virtuales inmersivos y visualmente impresionantes, combinando creatividad con sólidas habilidades técnicas en motores como Unity, y APIs gráficas como OpenGL y próximamente en Vulkan.
+¡Hola! Soy Marcos Matutes Rapun, un apasionado desarrollador de videojuegos con un gran interés en los gráficos 3D. Mi objetivo es dar vida a mundos virtuales inmersivos y visualmente impresionantes, combinando creatividad con sólidas habilidades técnicas en motores como Unity, y APIs gráficas como OpenGL y próximamente Vulkan.
 
 Siempre estoy buscando aprender nuevas tecnologías y aplicar soluciones innovadoras a problemas complejos. Actualmente estoy cursando la carrera de Diseño y desarrollo de Videojuegos en la Universidad Rey Juan Carlos. Dentro de poco empiezo el último curso durante el cual desarrollaré un motor de renderizado utilizando la compleja API de Vulkan.
 
