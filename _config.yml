@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "es-ES" # Changed to Spanish locale
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Malkoom"
+title                    : "Marcos Matutes Rapun | Desarrollador de Videojuegos" # More personal title
 title_separator          : "-"
 name                     : &name "Marcos Matutes Rapun"
 description              : &description "Aquí encontrarás mi portfolio de desarrollador de videjuegos"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://malkoom.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "malkoom/malkoom.github.io" # Assuming this is the correct repository for the user
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Marcos Matutes Rapun"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"
+  bio              : "Desarrollador de videojuegos interesado en los gráficos 3D. Apasionado por crear experiencias visuales inmersivas y optimizar el rendimiento." # More detailed bio
   location         : "Madrid, España"
   employer         : "URJC"
   uri              : # URL
