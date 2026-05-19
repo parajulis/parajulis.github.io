@@ -23,7 +23,7 @@ repository               : "malkoom/malkoom.github.io" # Assuming this is the co
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "f1.jpg"
   name             : "Marcos Matutes Rapun"
   pronouns         : # example: "she/her"
   bio              : "Desarrollador de videojuegos interesado en los gráficos 3D. Apasionado por crear experiencias visuales inmersivas y optimizar el rendimiento." # More detailed bio

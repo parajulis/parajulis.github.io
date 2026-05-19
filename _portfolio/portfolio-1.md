@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Borzoi"
+excerpt: "Juego de terror 3D<br/><img src='/images/Borzoi.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Juego de terror 3D hecho en Unity para una Game Jam. Contiene diferentes shaders que recueradan a los gráficos de juegos de la época de PS1. Programé tanto el estilo visual como parte del Gameplay.
+
+### Links
+
+[Itch.io](https://malkoom.itch.io/borzoi)
+[GitHub](https://github.com/malkoom/jamanecer)
