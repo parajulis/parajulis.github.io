@@ -1,6 +1,6 @@
 ---
 title: "Borzoi"
-excerpt: "Juego de terror 3D<br/><img src='/images/Borzoi.png'>"
+excerpt: "Juego de terror 3D gráficos PS1<br/><img src='/images/Borzoi.png'>"
 collection: portfolio
 ---
 
