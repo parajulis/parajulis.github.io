@@ -28,3 +28,4 @@ Habilidades
   * Java
   * Javascript
 * Conocimiento de metodologías ágiles como Scrum
+* Integración continua con Git y GitHub 
