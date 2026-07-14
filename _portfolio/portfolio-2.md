@@ -1,6 +1,6 @@
 ---
 title: "Renderer OpenGL"
-excerpt: "Ligero motor de render con efectos de postproceso <br/><img src='/images/500x300.png'>"
+excerpt: "Ligero motor de render con efectos de postproceso <br/><img src='/images/opengl.png'>"
 collection: portfolio
 ---
 

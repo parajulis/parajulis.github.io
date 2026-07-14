@@ -1,12 +1,11 @@
 ---
-title: "Borzoi"
-excerpt: "Juego de terror 3D gráficos PS1<br/><img src='/images/Borzoi.png'>"
+title: "Vulkan Renderer"
+excerpt: "Motor gráfico hecho con Vulkan<br/><img src='/images/vulkan.png'>"
 collection: portfolio
 ---
 
-Juego de terror 3D hecho en Unity para una Game Jam. Contiene diferentes shaders que recueradan a los gráficos de juegos de la época de PS1. Programé tanto el estilo visual como parte del Gameplay.
+Aplicación interactiva de gráficos 3D a bajo nivel programada en C++20 utilizando Vulkan RAII. El proyecto destaca por implementar las últimas especificaciones de la API (Vulkan 1.3+), tales como Dynamic Rendering y barreras de sincronización de nueva generación. Incluye soporte para el procesado y carga de geometría compleja (.obj) vía tinyobjloader, texturizado lineal con pirámides de Mipmaps generadas por hardware, shaders compilados a SPIR-V a través de Slang, e infraestructura modular limpia. Todo compilado mediante pipelines modernos de CMake sobre Linux.
 
 ### Links
 
-[Itch.io](https://malkoom.itch.io/borzoi)
-[GitHub](https://github.com/malkoom/jamanecer)
+[GitHub](https://github.com/malkoom/vulkan-renderer)
